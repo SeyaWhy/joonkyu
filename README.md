@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+🌱 I’m currently learning CSS/HTML/JS.
+📫 How to reach me:
+- Discord: joon#9999
+- Email: j@omg.lol
+😄 Pronouns:
+- he/him
+⚡ Fun fact:
+- Quick-learner
+
 <!--
 **joonkyu/joonkyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
