@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-🌱 I’m currently learning CSS/HTML/JS.
+🌱 I’m currently learning:
+- CSS/HTML
+- JS
 
 📫 How to reach me:
 - Discord: joon#9999
 - Email: j@omg.lol
 
 😄 Pronouns:
-- he/him
+- He/Him
 
 ⚡ Fun fact:
 - Quick-learner
