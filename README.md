@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 🌱 I’m currently learning:
-- CSS/HTML
-- JS
+- Python 3
 
 📫 How to reach me:
 - Discord: joon#9999
