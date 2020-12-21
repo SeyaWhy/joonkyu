@@ -6,7 +6,7 @@
 
 📫 How to reach me:
 - Discord: joon#9999
-- Email: joon@omg.lol
+- Email: j@omg.lol
 
 😄 Pronouns:
 - He/Him
