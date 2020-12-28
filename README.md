@@ -1,5 +1,15 @@
+<h1 align="center"><strong>Processing your files...</strong></h1>
+<br>
+<p align="center">This may take a few minutes to complete.</p>
+<br>
 <p align="center">
 	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
+</p>
+
+<!--
+<p align="center">
+	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
+</p>
 <p align="center"><strong>We didn't receive a proper request from your browser.</strong></p>
 <p align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</p>
 <p align="center">
@@ -11,7 +21,6 @@
 <p></p>
 </p>
 
-<!--
 ### Hi there 👋
 
 🌱 I’m currently learning:
