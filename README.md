@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Processing your files...</strong></h1>
+<p align="center"><strong>Processing your files...</strong></p>
 <br>
 <p align="center">This may take a few minutes to complete.</p>
 <br>
