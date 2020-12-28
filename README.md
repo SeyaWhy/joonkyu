@@ -1,9 +1,7 @@
-<p align="center"><strong>Processing your files...</strong></p>
-<br>
+<h3 align="center"><strong>Processing your files...</strong></h3>
 <p align="center">This may take a few minutes to complete.</p>
-<br>
 <p align="center">
-	<img width="40" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
+	<img width="64" src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif">
 </p>
 
 <!--
