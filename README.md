@@ -25,7 +25,7 @@
 - Python 3
 
 📫 How to reach me:
-- Discord: Joon#1337
+- Discord: ???
 - Email: j@omg.lol
 
 😄 Pronouns:
