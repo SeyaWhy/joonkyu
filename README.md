@@ -22,11 +22,11 @@
 ### Hi there 👋
 
 🌱 I’m currently learning:
-- Python 3
+- Java
 
 📫 How to reach me:
 - Discord: ???
-- Email: j@omg.lol
+- Email: joonkyu@omg.lol
 
 😄 Pronouns:
 - He/Him
